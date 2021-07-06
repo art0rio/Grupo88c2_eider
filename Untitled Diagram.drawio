@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T22:19:10.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.4" etag="d9ycb2VDtegvDtgNJt2v" type="github"><diagram id="AfRlSEqsznShZr0Hy122">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-06T22:58:01.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="MYGvVg_kHQkEfgSVpi0u" version="14.8.4" type="github">
+  <diagram id="AfRlSEqsznShZr0Hy122" name="Page-1">
+    <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rx76nYHMqrBOhTTJVqm1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rx76nYHMqrBOhTTJVqm1-1" target="rx76nYHMqrBOhTTJVqm1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rx76nYHMqrBOhTTJVqm1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rx76nYHMqrBOhTTJVqm1-1" target="rx76nYHMqrBOhTTJVqm1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rx76nYHMqrBOhTTJVqm1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rx76nYHMqrBOhTTJVqm1-1" target="rx76nYHMqrBOhTTJVqm1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rx76nYHMqrBOhTTJVqm1-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rx76nYHMqrBOhTTJVqm1-2" value="consignar dinero" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rx76nYHMqrBOhTTJVqm1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rx76nYHMqrBOhTTJVqm1-3" target="rx76nYHMqrBOhTTJVqm1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rx76nYHMqrBOhTTJVqm1-3" value="retirar dinero" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rx76nYHMqrBOhTTJVqm1-4" value="consultar saldo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rx76nYHMqrBOhTTJVqm1-9" value="verificar cuenta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rx76nYHMqrBOhTTJVqm1-11" value="Admin&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rx76nYHMqrBOhTTJVqm1-14" value="CU001 crer cuentas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-100" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
